@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nhldraftexplorer/static/css/main.893e1d51.css",
+    "main.js": "/nhldraftexplorer/static/js/main.e44c5c08.js",
+    "static/media/combined.csv": "/nhldraftexplorer/static/media/combined.1d817abd179d7bada768.csv",
+    "index.html": "/nhldraftexplorer/index.html",
+    "main.893e1d51.css.map": "/nhldraftexplorer/static/css/main.893e1d51.css.map",
+    "main.e44c5c08.js.map": "/nhldraftexplorer/static/js/main.e44c5c08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.893e1d51.css",
+    "static/js/main.e44c5c08.js"
+  ]
+}
