@@ -1,0 +1,238 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100;300;400&family=Montserrat:ital,wght@0,400;1,100;1,300&display=swap");
+body.light .draft-logo {
+  color: #000;
+}
+
+body.dark .draft-logo {
+  color: #FFF;
+}
+
+body.dark {
+  background: #2A2D35;
+  color: #FFF;
+}
+
+body.light {
+  color: #000;
+  background: #d3d2bc;
+}
+
+body.light .header {
+  background: #9f8487;
+}
+
+body.dark .header {
+  background: #002C3F;
+}
+
+body.dark .recharts-default-tooltip {
+  background: #000 !important;
+  color: #FFF !important;
+}
+
+body.dark ul.recharts-tooltip-item-list li {
+  color: #FFF !important;
+}
+
+body.dark .MuiDataGrid-columnHeaderTitle {
+  color: #FFF;
+}
+
+body.dark .MuiDataGrid-cell {
+  background: #0e2b3d;
+  color: #FFF;
+}
+
+.dark .axis-picker__control {
+  background: #162a3b;
+  color: #000;
+}
+
+body.dark .axis-picker__placeholder {
+  color: #fff;
+}
+
+body.dark .axis-picker__option {
+  background: #162a3b;
+  color: #FFF;
+}
+
+body.dark .axis-picker__is-focused {
+  background-color: #213f58;
+}
+
+body.dark .axis-picker__single_value {
+  color: #FFF;
+}
+
+body.dark .axis-picker__input-container {
+  color: #FFF;
+}
+
+body.dark .axis-picker__single-value {
+  color: #FFF;
+}
+
+body.dark .tooltip, .tooltip.dark {
+  background: #0e2b3d;
+}
+
+body.light .tooltip, .tooltip.light {
+  background: #9f8487;
+}
+
+.res {
+  background: #FFF;
+  color: #000;
+}
+
+.value-header {
+  background: #000;
+}
+
+body.dark p.MuiTablePagination-displayedRows {
+  color: #FFF;
+}
+
+body.light p.MuiTablePagination-displayedRows {
+  color: #000;
+}
+
+body.dark svg.MuiSvgIcon-root {
+  fill: #FFF;
+}
+
+body.light .value-header {
+  color: #FFF;
+}
+
+body.dark .about svg.MuiSvgIcon-root {
+  fill: #d3d2be;
+}
+
+body.light .charities {
+  color: #FFF;
+}
+
+.header {
+  width: 100%;
+  height: 6em;
+}
+
+html, body {
+  margin: 0 auto;
+}
+
+body {
+  font-family: "Lexend", sans-serif;
+}
+
+.container {
+  width: 98%;
+  min-height: 60em;
+  background: rgba(0, 0, 0, 0.1490196078);
+  margin: 0 auto;
+  margin-top: 1em;
+  border-style: solid;
+}
+
+.holder {
+  display: inline-flex;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  border-style: solid;
+  border-right: 0;
+  border-left: 0;
+  border-top: 0;
+}
+
+.draft-logo {
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: -5px;
+  position: absolute;
+  left: 0;
+  text-align: center;
+  width: 100%;
+  font-size: 3em;
+  font-style: oblique;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.lightbulb {
+  margin-top: 1em;
+  position: absolute;
+  right: 3%;
+}
+
+.graph {
+  width: 100%;
+  height: 46vh;
+  margin-top: 7em;
+  padding-bottom: 7em;
+}
+
+.selector {
+  display: inline-flex;
+}
+
+.tooltip {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+.values-tooltip {
+  display: flex;
+  width: 100%;
+}
+
+.values-tooltip-value {
+  display: block;
+  width: 100%;
+}
+
+.value-header {
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+.value-header, .res {
+  width: 100%;
+  text-align: center;
+}
+
+.about {
+  position: fixed;
+  left: 1%;
+  bottom: 0;
+}
+
+.charities {
+  width: 100%;
+  background: rgba(0, 0, 0, 0.831372549);
+  padding: 5em;
+}
+
+.charity-row {
+  display: flex;
+  padding-bottom: 4em;
+}
+
+.charity-item {
+  width: 33%;
+  text-align: center;
+  padding-top: 1%;
+}
+
+.charities button {
+  color: #FFF;
+}
+
+a.MuiButton-root {
+  color: #FFF;
+}
+
+.charities a {
+  color: #FFF;
+}/*# sourceMappingURL=style.css.map */

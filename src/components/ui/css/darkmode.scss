@@ -1,0 +1,98 @@
+body.light .draft-logo { color: #000;}
+body.dark .draft-logo {color:#FFF;}
+body.dark {
+    background: #2A2D35;
+    color:#FFF;
+}
+
+body.light {
+    color:#000;
+    background: #d3d2bc;
+}
+
+body.light .header {
+    background: #9f8487;
+}
+body.dark .header {
+    background: #002C3F;
+} 
+
+body.dark .recharts-default-tooltip {
+    background: #000!important;
+    color: #FFF!important;
+}
+body.dark ul.recharts-tooltip-item-list li {
+    color: #FFF!important;
+}
+
+body.dark .MuiDataGrid-columnHeaderTitle {
+    color: #FFF;
+}
+
+body.dark .MuiDataGrid-cell {
+    background: #0e2b3d;
+    color: #FFF;
+}
+
+
+
+.dark .axis-picker__control {
+    background: #162a3b;
+    color: #000;
+}
+
+body.dark .axis-picker__placeholder {
+    color: #fff;
+}
+
+body.dark  .axis-picker__option {
+        background: #162a3b;
+    color: #FFF;
+    }
+    
+    body.dark  .axis-picker__is-focused {
+        background-color: #213f58;
+     }
+body.dark .axis-picker__single_value {
+    color: #FFF;
+}
+body.dark .axis-picker__input-container {
+    color: #FFF;
+}
+
+body.dark .axis-picker__single-value {
+    color: #FFF;
+}
+body.dark  .tooltip, .tooltip.dark {
+    background: #0e2b3d;
+}
+body.light  .tooltip, .tooltip.light {
+    background: #9f8487;
+}
+
+.res {
+    background:#FFF;
+    color:#000
+}
+.value-header {
+    background: #000;
+}
+
+body.dark p.MuiTablePagination-displayedRows {
+    color:#FFF;
+}
+body.light p.MuiTablePagination-displayedRows {
+    color:#000;
+}
+body.dark svg.MuiSvgIcon-root {
+    fill: #FFF;
+}
+body.light .value-header {
+    color: #FFF;
+}
+body.dark .about svg.MuiSvgIcon-root {
+    fill: #d3d2be;
+}
+body.light .charities {
+    color: #FFF;
+}
